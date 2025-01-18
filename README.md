@@ -2,7 +2,7 @@
 
 ## Case Study #1 - Danny's Diner 👨‍🍳
 
-![Danny's Diner](https://github.com/Mariyajoseph24/8_Week_SQL_challenge/assets/91487663/c69d49a0-ffd6-4cf1-b66f-1d1eb14f8549)
+![Danny's Diner](https://raw.githubusercontent.com/HarivandhanaRavikanti/8_Week_SQL_Challenge/refs/heads/main/danny's%20diner%20image.png)
 
 ## Contents
 
@@ -11,7 +11,7 @@
 3. [Entity Relationship Diagram](#entity-relationship-diagram)
 4. [Case Study Questions & Solutions](#case-study-questions-and-solutions)
 5. [Bonus Questions & Solutions](#bonus-questions-and-solutions)
-6. [Key Insights](#key-insights)
+6. [Insights from Analysis](#key-insights)
 
 ---
 
@@ -244,7 +244,7 @@ FROM cte;
 
 ---
 
-## Key Insights
+## Insights from Analysis
 
 1. **Customer Spending Analysis:** The total amount spent by each customer at "Danny's Diner" varies widely. Some customers have spent considerably more than others, indicating potentially high-value customers.
 2. **Customer Visits:** The number of days each customer visited the restaurant also varies significantly, showing patterns of customer behaviour. Some customers visit frequently, while others visit less often.
