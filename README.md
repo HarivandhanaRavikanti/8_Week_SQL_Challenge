@@ -37,7 +37,7 @@ The case study revolves around three key datasets:
 
 ## Entity Relationship Diagram
 
-![Entity Relationship Diagram](https://github.com/Mariyajoseph24/8_Week_SQL_challenge/assets/91487663/4bc1a02f-6fac-47f5-82c7-d9be65de1700)
+![Entity Relationship Diagram](https://raw.githubusercontent.com/HarivandhanaRavikanti/8_Week_SQL_Challenge/refs/heads/main/Relationship.png)
 
 ---
 
